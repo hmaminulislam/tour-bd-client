@@ -1,0 +1,16 @@
+.login-container {
+    height: 90vh;
+}
+.login-form {
+    width: 400px;
+    padding: 20px 30px;
+    border: 1px solid #ddd;
+}
+.login-google {
+    width: 100%;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 20px;
+    color: rgb(37, 236, 120);
+    background-color: rgb(54, 53, 53);
+}
